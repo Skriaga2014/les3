@@ -21,4 +21,3 @@ def lucky_ticket(ticket_number):                        #Функция иден
 print(lucky_ticket(123006))
 print(lucky_ticket(12321))
 print(lucky_ticket(436751))
-##

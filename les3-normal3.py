@@ -10,4 +10,3 @@ def fil(func, list):                        #Функция-аналог filter:
     return new_list                         #Возвращает новый список.
 
 print (fil(ch, [1,2,3,4,5,6,7,8,9,10]))
-##
